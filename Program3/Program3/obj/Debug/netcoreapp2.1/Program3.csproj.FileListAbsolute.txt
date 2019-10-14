@@ -1,0 +1,11 @@
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\obj\Debug\netcoreapp2.1\Program3.csprojAssemblyReference.cache
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\obj\Debug\netcoreapp2.1\Program3.csproj.CoreCompileInputs.cache
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\obj\Debug\netcoreapp2.1\Program3.AssemblyInfoInputs.cache
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\obj\Debug\netcoreapp2.1\Program3.AssemblyInfo.cs
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\bin\Debug\netcoreapp2.1\Program3.deps.json
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\bin\Debug\netcoreapp2.1\Program3.runtimeconfig.json
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\bin\Debug\netcoreapp2.1\Program3.runtimeconfig.dev.json
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\bin\Debug\netcoreapp2.1\Program3.dll
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\bin\Debug\netcoreapp2.1\Program3.pdb
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\obj\Debug\netcoreapp2.1\Program3.dll
+E:\宝宝龙\C#\C#控制台程序\Program3\Program3\obj\Debug\netcoreapp2.1\Program3.pdb
